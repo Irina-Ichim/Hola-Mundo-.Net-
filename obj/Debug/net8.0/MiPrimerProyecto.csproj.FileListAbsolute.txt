@@ -13,3 +13,6 @@ C:\Users\proye\MiPrimerProyecto\obj\Debug\net8.0\refint\MiPrimerProyecto.dll
 C:\Users\proye\MiPrimerProyecto\obj\Debug\net8.0\MiPrimerProyecto.pdb
 C:\Users\proye\MiPrimerProyecto\obj\Debug\net8.0\MiPrimerProyecto.genruntimeconfig.cache
 C:\Users\proye\MiPrimerProyecto\obj\Debug\net8.0\ref\MiPrimerProyecto.dll
+C:\Users\proye\MiPrimerProyecto\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\proye\MiPrimerProyecto\obj\Debug\net8.0\MiPrimerProyecto.csproj.AssemblyReference.cache
+C:\Users\proye\MiPrimerProyecto\obj\Debug\net8.0\MiPrimer.2A7B73D5.Up2Date
